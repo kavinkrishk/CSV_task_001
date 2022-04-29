@@ -1,0 +1,51 @@
+[
+    {
+        "Roll No": "Roll No",
+        "Student Name": "Student Name",
+        "Marks": "Marks",
+        "Grade": "Grade",
+        "Result": "Result"
+    },
+    {
+        "Roll No": "1",
+        "Student Name": "Kannan",
+        "Marks": "75",
+        "Grade": "C",
+        "Result": "pass"
+    },
+    {
+        "Roll No": "2",
+        "Student Name": "vinoth",
+        "Marks": "60",
+        "Grade": "D",
+        "Result": "pass"
+    },
+    {
+        "Roll No": "3",
+        "Student Name": "kayal",
+        "Marks": "80",
+        "Grade": "B",
+        "Result": "pass"
+    },
+    {
+        "Roll No": "4",
+        "Student Name": "Balaji",
+        "Marks": "55",
+        "Grade": "E",
+        "Result": "pass"
+    },
+    {
+        "Roll No": "5",
+        "Student Name": "Vivek",
+        "Marks": "95",
+        "Grade": "A",
+        "Result": "pass"
+    },
+    {
+        "Roll No": "6",
+        "Student Name": "savitha",
+        "Marks": "100",
+        "Grade": "A",
+        "Result": "pass"
+    }
+]
